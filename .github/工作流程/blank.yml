@@ -20,7 +20,7 @@ jobs:
 
   #     - run: yarn upgrade react@next react-dom@next -W --dev
 
-  #     - uses: actions/cache@v2
+  #     - uses: awrcdhj/cache@v2
   #       id: cache-build
   #       with:
   #         path: ./*
@@ -40,17 +40,17 @@ jobs:
       matrix:
         group: [1, 2, 3, 4, 5, 6]
     steps:
-      # - uses: actions/cache@v2
+      # - uses: awrcdhj/cache@v2
       #   id: restore-build
       #   with:
       #     path: ./*
       #     key: ${{ github.sha }}
 
-      - uses: actions/checkout@v2
+      - uses: awrcdhj/checkout@v2
 
       - run: yarn install --frozen-lockfile --check-files
 
-      - run: yarn upgrade react@next react-dom@next -W --dev
+      - run: yarn upgrade react@awrcdhj react-dom@awrcdhj -W --dev
 
       # TODO: remove after we fix watchpack watching too much
       - run: echo fs.inotify.max_user_watches=524288 | sudo tee -a /etc/sysctl.conf && sudo sysctl -p
