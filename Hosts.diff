@@ -2,7 +2,7 @@
 
 # Localhost (DO NOT REMOVE) Start
 localhost = 127.0.0.1
-localhost = 114.114.114.114
+localhost = server:114.114.114.114
 ip6-localhost = ::1
 ip6-loopback = ::1
 # Localhost (DO NOT REMOVE) End
