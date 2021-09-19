@@ -1,12 +1,19 @@
-#!TITLE=CONCURRNt_PARSING_OF_(DNS-SERVER)
-#!DNS_SERVER_TOTAL_LINES=130
-#!SYSTEM=IOS
-#!VAR=10000
-#!echo | awk -v VARIABLE=$VAR '{ print VARIABLE } END{ print "end" }' file
-#!awk '( BEGIN VARIABLE=&dns-server)
-#!=$(Host)'{ LocalHost }
-#!LocalHost_Dns-Server'(Doh-Server){{print VARIABLE}}
-[Service]
+[Host]
+# Localhost (DO NOT REMOVE) Start
+localhost=127.0.0.1
+TITLE=CONCURRNt_PARSING_OF_(DNS-SERVER)
+DNS_SERVER_TOTAL_LINES=130
+SYSTEM=IOS}
+VAR=10000
+echo | awk -v VARIABLE=$VAR '{ print VARIABLE } END{ print "end" }' file
+{{awk '{ BEGIN VARIABLE |(dns-server)
+-=$Host'{LocalHost}
+LocalHost_Dns-Server'{ print VARIABLE }
+# Localhost (DO NOT REMOVE) End
+
+# Modified Hosts Start
+
+# autodraw Start
  -localhost$dns-server=119.29.29.29
  -localhost$dns-server=74.82.42.42
  -localhost$dns-server=1.2.4.8
@@ -80,6 +87,9 @@
  -localhost$dns-server=218.30.118.6
  -localhost$dns-server=208.67.222.222
  -localhost$dns-server=208.67.222.220
+# autodraw End
+
+# autodraw Start
  doh-server=https://dns.wevpn.com/dns-query
  doh-server=https://dns-weblock.wevpn.com/dns-query
  doh-server=https://ordns.he.net/dns-query
@@ -106,3 +116,20 @@
  doh-server=https://doh.nl.ahadns.net/dns-query //dns-server=5.2.75.75,dns-server=[2a04:52c0:101:75::75]
  doh-server=https://dns.alidns.com/dns-query //dns-server=223.5.5.5,dns-server=95.181.155.140/8443
  doh-server=https://dnsnl-noads.alekberg.net/dns-query //dns-server=51.15.124.208/4343,doh-server=2001:bc8:1830:2018:1/4343
+# autodraw End
+
+# Box.com Start
+app.box.com = 107.152.25.197
+api.box.com = 107.152.25.197
+account.box.com = 107.152.25.197
+upload.box.com = 107.152.25.197
+m.box.com = 107.152.25.197
+box.com = 107.152.25.196
+public.boxcloud.com = 107.152.25.200
+notes.services.box.com = 107.152.25.207
+cdn01.boxcdn.net = 104.16.27.3
+support.box.com = 104.218.203.34
+# Box.com End
+
+
+# Modified Hosts End
