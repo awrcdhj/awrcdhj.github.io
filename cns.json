@@ -32,8 +32,8 @@
 		"AutoCertHosts": ["m.baidu.com", "yaohuo.me", "mymy.ip"],
 
 		"//": "手动指定cert和key文件, 两者必须同时存在",
-		"cert_file": "cert.pem",
-		"key_file": "key.pem"
+		"cert_file": "Thor SSL CA 21-09-11 08_46.cer",
+		"key_file": "Thor SSL CA 21-09-11 08_46.p12"
 	}
 }
  
