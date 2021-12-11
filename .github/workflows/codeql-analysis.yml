@@ -18,8 +18,7 @@ on:
     # The branches below must be a subset of the branches above
     branches: [ Surge4 ]
   schedule:
-    - cron: '33 17 * * 1'
-
+      - cron: 20 ** 1
 jobs:
   analyze:
     name: Analyze
@@ -68,4 +67,4 @@ jobs:
     #   make release
 
     - name: Perform CodeQL Analysis
-      uses: github/codeql-action/analyze@v1
+      uses: github/codeql-action/analyze@v2
