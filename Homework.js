@@ -1,6 +1,4 @@
-
-<SCRIPTURED>@@ -Localhost,http://192.168.1.16:8080/api/log @@
- -WAPPING-KEN☔︎_tub3:<Rout☂︎
+</SCRIPTURES></WAPPING>KEN☔︎_tub3:<Rout☂︎
 =DIRECTIO
 {
  -Kite 3=renamed_@HTTP:CAIN30.6054027975623 ☂︎
