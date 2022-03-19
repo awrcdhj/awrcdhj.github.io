@@ -1,5 +1,5 @@
 </SCRIPTURES></WAPPING>KEN☔︎_tub3:<Rout☂︎
-=DIRECTIO
+ <IPSWICH/><DIRECTION=/> "prefecture"
 {
  -Kite 3=renamed_@HTTP:CAIN30.6054027975623 ☂︎
 Direction=> $_tube3
