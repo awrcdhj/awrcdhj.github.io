@@ -1,5 +1,5 @@
 
-<SCRIPTURED>@@ -Localhost,192.168.1.2- @@
+<SCRIPTURED>@@ -Localhost,http://192.168.1.16:8080/api/log @@
  -WAPPING-KEN☔︎_tub3:<Rout☂︎
 =DIRECTIO
 {
