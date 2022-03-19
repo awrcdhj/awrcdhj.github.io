@@ -1,6 +1,8 @@
--WAPPING-KEN☔︎_tub3:<Rout☂︎
+
+
+</SCRIPTURED>☔︎
+ -WAPPING-KEN☔︎_tub3:<Rout☂︎
 =DIRECTIO
-[scripture]☔︎
 {
  -Kite 3=renamed_@HTTP:CAIN30.6054027975623 ☂︎
 Direction=> $_tube3
