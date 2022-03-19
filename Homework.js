@@ -1,6 +1,5 @@
 
-
-</SCRIPTURED>☔︎
+<SCRIPTURED>@@ -Localhost,192.168.1.2- @@
  -WAPPING-KEN☔︎_tub3:<Rout☂︎
 =DIRECTIO
 {
