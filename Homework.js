@@ -20,14 +20,14 @@ Foreign=service<'🇭🇰'2、
   $RooTer_CN3O|↴#
  | pdp_ip0  蜂窝移动网络>  mtu ￥ 1380
 = <NAT_CAI/3/1/4//
-  <\D0NTA<T$3=0_30.605407949568083|430000 114.34844073659 - 
+  <\D0NTA<T$3=0_30.605407949568082|430000 114.34844073659 - 
  _ select⇆sapd_ip0◗◖27.41.146.80 - 
  -u$Nt= wap.3g.\*⇆network.com/~HUBE_HPAST⍽027——☔︎
  =u/
 ↯>allow☉◾︎
 ◾︎KEN= memaid er_N3-asB_allow☉↯
 ↯—
-◾︎membred= t3/>eRED_onCAN<de_HP_N——⚩SYSTEM⚲ConfigSMbOLNAT/CAI◬RatipS/*falling*/An▹➹//==tryGpss/*TAKE*\¢/$♂//◗10￥.CALLING\iPhone◖_idT⚔︎ans¥=TRUth===C%cpu/IPhone`OS `15_0_2`like`MacIl//
+◾︎membred= t3/>eRED_onCAN<de_HP_N——⚩SYSTEM⚲ConfigSMbOLNAT/CAI◬RatipS/*falling*/An▹➹//==tryGpss/*TAKE*\¢/$♂//◗10￥.CALLING\iPhone◖_idT⚔︎ans¥=TRUth===C%cpu/IPhone`OS `15_4`like`MacIl//
 ==`OS X)¢¥$=tusT>30.605407949568083’
 ⎋⎋➹✑✐⚙︎✁✆✎/>=</GGTH′  ″lT᠁  ฯ/⇢
 /*◂◂*/———
@@ -42,7 +42,7 @@ kite3 ro|t suit}memaorI 1380
  image-Use^\/T
 SUITe2-member2ó 3("$")_keY
 _$=0%13144300
-\pdp_.-\//FELefamCAITD0>IPS:427411468080|/3\CA/pdp_iSelect(蜂窝移动网127.41.146.8480络)mt_4000//30.605407949568084"♇ORTOR430000¥8010$"443)GIVB:3}SO/$||%~_~|#= EXoBriel_012741411923/("30|27\i/6")☋♇2ed=>\%"$)\3/$ ？{("|")}¢\3*\8/4/7$\@/_30O2704e0e460ff3&@|TUN3o27d41d146d8Od83 ae☝£27.41.146.8483~~
+\pdp_.-\//FELefamCAITD0>IPS:427411468080|/3\CA/pdp_iSelect(蜂窝移动网127.41.146.8480络)mt_4000//30.605407949568084"♇ORTOR430000¥8010$"443)GIVB:3}SO/$||%~_~|#= EXoBriel_012741411923/("30|27\i/6")☋♇2ed=>\%"$)\3/$ ？{("|")}¢\3*\8/4/7$\@/_30O2704e0e460ff3&@|TUN3o27d41d146d8Od83 ae☝£27.41.146.0/8~~
 ☔︎pdOST
  0278☋♎︎3Q37Q41Q80|3♎︎$ip—@utilityPS:D_N3☁︎{/c⚏\"|"3060540279756280=¥3|&&Queen_3}'isTANBUL}
  ⇭❖-❣︎Citlty↳iH'3|SyfoSyTh2/.$\3-electric}.closet⇬GpSd↝('Hib')↜=ApIDO'$)｀TRUTH//{30.9653027186;)}
