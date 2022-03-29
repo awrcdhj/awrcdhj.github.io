@@ -21,13 +21,13 @@ Foreign=service<'🇭🇰'2、
  | pdp_ip0  蜂窝移动网络>  mtu ￥ 1380
 = <NAT_CAI/3/1/4//
   <\D0NTA<T$3=0_30.605407949568083|430000 114.34844073659 - 
- _ select⇆sapd_ip0◖27.41.146.80 - 
+ _ select⇆sapd_ip0◗◖27.41.146.80 - 
  -u$Nt= wap.3g.\*⇆network.com/~HUBE_HPAST⍽027——☔︎
  =u/
 ↯>allow☉◾︎
 ◾︎KEN= memaid er_N3-asB_allow☉↯
 ↯—
-◾︎membred= t3/>eRED_onCAN<de_HP_N——⚩SYSTEM⚲ConfigSMbOLNAT/CAI◬RatipS/*falling*/An▹➹//==tryGpss/*TAKE*\¢/$♂//◖10￥.CALLING\iphone◖_idT⚔︎ans¥=TRUth===C%cpu/IPhone`OS `15_0_2`like`MacIl//
+◾︎membred= t3/>eRED_onCAN<de_HP_N——⚩SYSTEM⚲ConfigSMbOLNAT/CAI◬RatipS/*falling*/An▹➹//==tryGpss/*TAKE*\¢/$♂//◗10￥.CALLING\iPhone◖_idT⚔︎ans¥=TRUth===C%cpu/IPhone`OS `15_0_2`like`MacIl//
 ==`OS X)¢¥$=tusT>30.605407949568083’
 ⎋⎋➹✑✐⚙︎✁✆✎/>=</GGTH′  ″lT᠁  ฯ/⇢
 /*◂◂*/———
@@ -58,7 +58,7 @@ Songwriter -
  dong☠︎☠︎_annot =reject=null\Nones//云南<ACCESS-♇DENIED|◾︎//➚✎♁☇
 //♾︎e GPS.Rule|➚//
 ◾︎- vigisof\System↯
--Please>DIDen: HBTVB◾︎ip&addred=>downion=>ITCP //change¥ // Lni ation ♐︎ hubei ngo &ut\Chain//from_etc_system\COM/.~_infe\ '^'——◾︎ - besiden3&der.set.&i'T@Script:requestd、GPS.ITN require= default></named|湖北省武汉市洪山区\ORG//GVIEO^\CPtyin//siten-name=ingredien_modification of'^//</an&linkdRA=_N3&&qut\fee➚CITY&EN3✐system_\GPSD<HUBEI$'meak＾did//♎︎mvn
+-Please>DIDen: HBTVB◾︎ip&addred=>downion=>ITCP //change¥ // Lni ation ♐︎ hubei ngo &ut\Chain//from_etc_system\COM/.~_infe\ '^'——◾︎ - besiden3&der.set.&i'T@Script:requestd、GPS.ITN require= default></names>湖北省武汉市……\ORG//GVIEO^\CPtyin//siten-name=ingredien_modification ON'^//</an&linkdRA=_N3&&quot\fee➚CITY&EN3➺System_\GPSD</HUBEI$'meak＾did//♎︎mvn
 ☇☂︎
 \ó⚔︎>enable0&Net~Named~HBTVB//
 GPS⚔︎Systemó~t$\an3\ó/~~~~~~
@@ -111,25 +111,25 @@ hostes=pull.free.video.10010.com"did)>I'M==30.605402797562、
 tcp-next= 3,
 Serverdhost'.address=> adopt
  NAT,moIdpf,
-{seek:<湖北武汉
+{seek: 湖北省武汉市……
 modifi.desat= lined.$emcelaprd
 '#/get(HTTP-requestdo decompos quote header quote&)way=> next paging£}
 }
 started=<local{
   }       a&ns{analysis rdatase("rd$")}
-}Resolving: `datas'…("湖北武汉")/}
+}Resolving: `datas'…("湖北省…")/}
         
           『Result:lkpame=d｀Hvbest:pull.free.video.10010.com ︳.
           Result: h_addr_list= ｀30.605402797562~
           {returned: data_list= ocal'($")>quotet: @Named{Shadowrocke:3
  }…`(3/$>
-<湖北武汉市(A);}
+</湖北省……(武汉市)>(A);
   export=Host_hemad=> HVDO]<Wia/nd===$}}
           {import=trub3)}
 pull.free.video.10010.com')requir(emimpaddrss')=ost: trubdlaes}
 }
 \Server-sare$ =>via@Nnamed&&localvianPik$}}
-{/>&&}$`
+{/>&&}$、
 ,SSt~'likela-der'hdviapin=directionld\HvCn|ad)'Anis
 EAder: &{$= ?}
 ostaddred=<("pull.free.video.10010.com">AvdMiChave= $IaqedHOwse=<,traDoesserd}=< /$>
