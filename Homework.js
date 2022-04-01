@@ -27,7 +27,7 @@ Foreign=service<'🇭🇰'2、
 ↯>allow☉◾︎
 ◾︎KEN= memaid er_N3-asB_allow☉↯
 ↯—
-◾︎membred= t3/>eRED_onCAN<de_HP_N——⚩SYSTEM⚲ConfigSMbOLNAT/CAI◬RatipS/*falling*/An▹➹//==tryGpss/*TAKE*\¢/$♂//◗10￥.CALLING\iPhone◖_idT⚔︎ans¥=TRUth===C%cpu/IPhone`OS `15_4`like`MacIl//
+◾︎membred= t3/>eRED_onCAN<de_HP_N——⚩SYSTEM⚲ConfigSMbOLNAT/CAI◬RatipS/*falling*/An▹➹//==tryGpss/*TAKE*\¢/$♂//◗10￥.CALLING\iPhone◖_idT⚔︎ans¥=TRUth===C%\iPhonelSystemCPU<'iPhone 12 Pro Max'></IOS 15_4.1>like<->MacIl//
 ==`OS X)¢¥$=tusT>30.605407949568083’
 ⎋⎋➹✑✐⚙︎✁✆✎/>=</GGTH′  ″lT᠁  ฯ/⇢
 /*◂◂*/———
