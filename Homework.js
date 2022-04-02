@@ -18,7 +18,7 @@ Foreign=service<'🇭🇰'2、
 ☔︎🇭🇰ProxyHTTPAMD5🇨🇳>_tó 
 />◾︎NETWORKING@Qtp☔︎
   $RooTer_CN3O|↴#
- | pdp_ip0  蜂窝移动网络>  mtu ￥ 1380
+ | pdp_ip0  蜂窝移动网络>  mtu ￥ 1450
 = <NAT_CAI/3/1/4//
   <\D0NTA<T$3=0_30.605407949568082|430000 114.34844073659 - 
  _ select⇆sapd_ip0◗◖27.41.146.80 - 
@@ -35,7 +35,7 @@ Foreign=service<'🇭🇰'2、
 *Root♐︎APP（"||"）↴
 </Bodie></routeing>}-a_3will☂︎
 ✐- ᠁ 我希望睡前最后看到的是你... ฯKENTNA_SySteem——@|Working/*
-kite3 ro|t suit}memaorI 1380
+kite3 ro|t suit}memaorI 1450
  _ member1-RIP_WAPPINGi
 =e if at:2=Proxy it'3%6~$Qtp2/¥3'){
 }WORKING-rip /{
@@ -155,54 +155,54 @@ Forinateoj:OF372.1//⤵︎
 hosted= />CANꜜ
 lIST-regional =nameless
 [
- "2620:74:10:2800::45"——ꜛꜛ
- "2620:74:14:3000::40"
- "186.76.76.76"
- "2001:41d0:302:2200::180"
- "123.125.81.6"
- "123.207.137.88"
- "114.114.114.114"
- "119.119.119.119"
- "119.28.28.28"
- "9.9.9.9"
- "2620:fe::11"
- "2620:fe::fe:11"
- "199.91.73.222"
- "178.79.131.110"
- "223.5.5.5"
- "223.6.6.6"
- "1.2.4.8"
- "210.2.4.8"
- "123.125.81.6"
- "168.95.1.1"
- "168.95.192.1"
- "2a10:50c0::ad1:ff"
- "2a10:50c0::ad2:ff"
- "2a05:d016:af8:4000:7710:6fc:bde3:fe0e"
- "2001:bc8:1824:738::1"
- "2001:bc8:1830:2018::1"
- "2a00:5980:94::71"
- "2a04:bdc7:100:70::70"
- "2400:8904:e001:43::43"
- "2a04:5200:fff4::13ff"
- "justfoxmaibe.com"
+↖︎valued↗︎"2620:74:10:2800::45"
+↖︎valued↗︎"2620:74:14:3000::40"
+↖︎valued↗︎"186.76.76.76"
+↖︎valued↗︎"2001:41d0:302:2200::180"
+↖︎valued↗︎"123.125.81.6"
+↖︎valued↗︎"123.207.137.88"
+↖︎valued↗︎"114.114.114.114"
+↖︎valued↗︎"119.119.119.119"
+↖︎valued↗︎"119.28.28.28"
+↖︎valued↗︎"9.9.9.9"
+↖︎valued↗︎"2620:fe::11"
+↖︎valued↗︎"2620:fe::fe:11"
+↖︎valued↗︎"199.91.73.222"
+↖︎valued↗︎"178.79.131.110"
+↖︎valued↗︎"223.5.5.5"
+↖︎valued↗︎"223.6.6.6"
+↖︎valued↗︎"1.2.4.8"
+↖︎valued↗︎"210.2.4.8"
+↖︎valued↗︎"123.125.81.6"
+↖︎valued↗︎"168.95.1.1"
+↖︎valued↗︎"168.95.192.1"
+↖︎valued↗︎"2a10:50c0::ad1:ff"
+↖︎valued↗︎"2a10:50c0::ad2:ff"
+↖︎valued↗︎"2a05:d016:af8:4000:7710:6fc:bde3:fe0e"
+↖︎valued↗︎"2001:bc8:1824:738::1"
+↖︎valued↗︎"2001:bc8:1830:2018::1"
+↖︎valued↗︎"2a00:5980:94::71"
+↖︎valued↗︎"2a04:bdc7:100:70::70"
+↖︎valued↗︎"2400:8904:e001:43::43"
+↖︎valued↗︎"2a04:5200:fff4::13ff"
+↘︎valued↙︎"justfoxmaibe.com"
 </]
  Done()</Router></Namedeor>utun_3
 
 >https: names=<IPv6}
-{IPv.*/Server.list=/>DNS-over-HTTPS
-   "https://doh.dns.sb/dns-query"
-   "https://dns11.quad9.net/dns-query"
-   "https://1.1.1.1/dns-query"
-   "https://1.0.0.1/dns-query"
-   "https://1dot1dot1dot1.cloudflare-dns.com"
-   "https://dns.cfiec.net/dns-query"
-   "https://doh.la.ahadns.net/dns-query"
-   "https://adfree.usableprivacy.net/dns-query"
-   "https://dnsnl.alekberg.net/dns-query"
-   "https://dns.adguard.com.dns-query"
-   "https://dns.gooele.com.dns-query"
-   "https://dns.circl.lu.com.dns-query——179{
- =httpO
+{IPv.*/Server.list=/>DNS-over-HTTPS↘︎
+    ↗︎   "https://doh.dns.sb/dns-query"
+    ↗︎   "https://dns11.quad9.net/dns-query"
+    ↗︎   "https://1.1.1.1/dns-query"
+    ↗︎   "https://1.0.0.1/dns-query"
+    ↗︎   "https://1dot1dot1dot1.cloudflare-dns.com"
+    ↗︎   "https://dns.cfiec.net/dns-query"
+    ↗︎   "https://doh.la.ahadns.net/dns-query"
+    ↗︎   "https://adfree.usableprivacy.net/dns-query"
+    ↗︎   "https://dnsnl.alekberg.net/dns-query"
+    ↗︎   "https://dns.adguard.com.dns-query"
+    ↗︎   "https://dns.gooele.com.dns-query"
+    ↗︎   "https://dns.circl.lu.com.dns-query"⇘
+➡︎$=http-pdp_ip0  蜂窝移动网络  mtu = 1450  flags = 8051
 https;name-Network
 */】脚本完成 </Songwriter>@;</dongmaijihe@qq.com>
