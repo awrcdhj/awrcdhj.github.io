@@ -155,37 +155,37 @@ Forinateoj:OF372.1//⤵︎
 hosted= />CANꜜ
 lIST-regional =nameless
 [
-↖︎valued↗︎"2620:74:10:2800::45"
-↖︎valued↗︎"2620:74:14:3000::40"
-↖︎valued↗︎"186.76.76.76"
-↖︎valued↗︎"2001:41d0:302:2200::180"
-↖︎valued↗︎"123.125.81.6"
-↖︎valued↗︎"123.207.137.88"
-↖︎valued↗︎"114.114.114.114"
-↖︎valued↗︎"119.119.119.119"
-↖︎valued↗︎"119.28.28.28"
-↖︎valued↗︎"9.9.9.9"
-↖︎valued↗︎"2620:fe::11"
-↖︎valued↗︎"2620:fe::fe:11"
-↖︎valued↗︎"199.91.73.222"
-↖︎valued↗︎"178.79.131.110"
-↖︎valued↗︎"223.5.5.5"
-↖︎valued↗︎"223.6.6.6"
-↖︎valued↗︎"1.2.4.8"
-↖︎valued↗︎"210.2.4.8"
-↖︎valued↗︎"123.125.81.6"
-↖︎valued↗︎"168.95.1.1"
-↖︎valued↗︎"168.95.192.1"
-↖︎valued↗︎"2a10:50c0::ad1:ff"
-↖︎valued↗︎"2a10:50c0::ad2:ff"
-↖︎valued↗︎"2a05:d016:af8:4000:7710:6fc:bde3:fe0e"
-↖︎valued↗︎"2001:bc8:1824:738::1"
-↖︎valued↗︎"2001:bc8:1830:2018::1"
-↖︎valued↗︎"2a00:5980:94::71"
-↖︎valued↗︎"2a04:bdc7:100:70::70"
-↖︎valued↗︎"2400:8904:e001:43::43"
-↖︎valued↗︎"2a04:5200:fff4::13ff"
-↘︎valued↙︎"justfoxmaibe.com"
+↖︎AAAA - "2620:74:10:2800::45" @doh.pud:443
+↖︎AAAA - "2620:74:14:3000::40" @doh.pud:443
+↖︎A - "186.76.76.76" @doh.pud:443
+↖︎AAAA - "2001:41d0:302:2200::180" @doh.pud:443
+↖︎A - "123.125.81.6" @doh.pud:443
+↖︎A - "123.207.137.88" @doh.pud:443
+↖︎A - "114.114.114.114" @doh.pud:443
+↖︎A - "119.119.119.119" @doh.pud:443
+↖︎A - "119.28.28.28" @doh.pud:443
+↖︎A - "9.9.9.9" @doh.pud:443
+↖︎AAAA - "2620:fe::11" @dns.alidns.com:443
+↖︎AAAA - "2620:fe::fe:11" @dns.alidns.com:443
+↖︎A - "199.91.73.222" @doh.pud:443
+↖︎A - "178.79.131.110" @doh.pud:443
+↖︎A - "223.5.5.5" @dns.alidns.com:443
+↖︎A - "223.6.6.6" @dns.alidns.com:443
+↖︎A - "1.2.4.8" @doh.pud:443
+↖︎A - "210.2.4.8" @doh.pud:443
+↖︎A - "123.125.81.6" @doh.pud:443
+↖︎A - "168.95.1.1" @doh.pud:443
+↖︎A - "168.95.192.1" @dns.alidns.com:443
+↖︎AAAA - "2a10:50c0::ad1:ff" @doh.pud:443
+↖︎AAAA - "2a10:50c0::ad2:ff" @doh.pud:443
+↖︎AAAA - "2a05:d016:af8:4000:7710:6fc:bde3:fe0e" @doh.pud:443
+↖︎AAAA - "2001:bc8:1824:738::1" @doh.pud:443
+↖︎AAAA - "2001:bc8:1830:2018::1" @doh.pud:443
+↖︎AAAA - "2a00:5980:94::71" @doh.pud:443
+↖︎AAAA - "2a04:bdc7:100:70::70" @doh.pud:443
+↖︎AAAA - "2400:8904:e001:43::43" @doh.pud:443
+↖︎AAAA - "2a04:5200:fff4::13ff" @doh.pud:443
+↖︎AAAA - "justfoxmaibe.com" @doh.pud:443
 </]
  Done()</Router></Namedeor>utun_3
 
