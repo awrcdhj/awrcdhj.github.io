@@ -81,7 +81,7 @@ $("NTA-CAI-GPS-DAY-\EN)}m
 function(ipd:30.605402797562)
 document.querySelector(
 "#AES3").innerHTML
-=$_湖北省武汉市
+=IPS$/SEE_｀湖北省…<'武汉市'>
 JSON.pointl}
     }
   }
